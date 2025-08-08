@@ -1,5 +1,12 @@
 ﻿// code for inheritance
 using System;
+
+
+
+static void Main(String[] args)
+{
+    Animal m = new Animal();
+}
 class Animal { 
 
     public void  makeSound()
@@ -15,5 +22,14 @@ class Animal {
         Console.WriteLine("Bark");
     }
 }
+
+class Cat:Animal
+{
+    public void makeSound()
+    {
+        Console.WriteLine("Meow");
+}
+
+
 
 
