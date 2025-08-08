@@ -1,0 +1,14 @@
+C:\Users\AJ\Desktop\Devotional\assignment\dcit318-assignment2-11033579.cs\bin\Debug\net8.0\dcit318-assignment2-11033579.cs.exe
+C:\Users\AJ\Desktop\Devotional\assignment\dcit318-assignment2-11033579.cs\bin\Debug\net8.0\dcit318-assignment2-11033579.cs.deps.json
+C:\Users\AJ\Desktop\Devotional\assignment\dcit318-assignment2-11033579.cs\bin\Debug\net8.0\dcit318-assignment2-11033579.cs.runtimeconfig.json
+C:\Users\AJ\Desktop\Devotional\assignment\dcit318-assignment2-11033579.cs\bin\Debug\net8.0\dcit318-assignment2-11033579.cs.dll
+C:\Users\AJ\Desktop\Devotional\assignment\dcit318-assignment2-11033579.cs\bin\Debug\net8.0\dcit318-assignment2-11033579.cs.pdb
+C:\Users\AJ\Desktop\Devotional\assignment\dcit318-assignment2-11033579.cs\obj\Debug\net8.0\dcit318-assignment2-11033579.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AJ\Desktop\Devotional\assignment\dcit318-assignment2-11033579.cs\obj\Debug\net8.0\dcit318-assignment2-11033579.cs.AssemblyInfoInputs.cache
+C:\Users\AJ\Desktop\Devotional\assignment\dcit318-assignment2-11033579.cs\obj\Debug\net8.0\dcit318-assignment2-11033579.cs.AssemblyInfo.cs
+C:\Users\AJ\Desktop\Devotional\assignment\dcit318-assignment2-11033579.cs\obj\Debug\net8.0\dcit318-assignment2-11033579.cs.csproj.CoreCompileInputs.cache
+C:\Users\AJ\Desktop\Devotional\assignment\dcit318-assignment2-11033579.cs\obj\Debug\net8.0\dcit318-assignment2-11033579.cs.dll
+C:\Users\AJ\Desktop\Devotional\assignment\dcit318-assignment2-11033579.cs\obj\Debug\net8.0\refint\dcit318-assignment2-11033579.cs.dll
+C:\Users\AJ\Desktop\Devotional\assignment\dcit318-assignment2-11033579.cs\obj\Debug\net8.0\dcit318-assignment2-11033579.cs.pdb
+C:\Users\AJ\Desktop\Devotional\assignment\dcit318-assignment2-11033579.cs\obj\Debug\net8.0\dcit318-assignment2-11033579.cs.genruntimeconfig.cache
+C:\Users\AJ\Desktop\Devotional\assignment\dcit318-assignment2-11033579.cs\obj\Debug\net8.0\ref\dcit318-assignment2-11033579.cs.dll
