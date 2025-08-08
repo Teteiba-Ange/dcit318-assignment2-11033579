@@ -2,15 +2,23 @@
 using System;
 
 
-
-static void Main(String[] args)
+class Program
 {
-    Animal m = new Animal();
-    m.makeSound();
+    static void Main(String[] args)
+    {
+        Animal m = new Animal();
+        m.makeSound();
+
+        Animal ADog = new Dog();
+        ADog.makeSound();
+
+        Animal ACat = new Cat();
+        ACat.makeSound();
+    }
 }
 class Animal { 
 
-    public void  makeSound()
+    public  virtual void  makeSound()
     {
         Console.WriteLine("Some generic sound");
     }
@@ -18,17 +26,37 @@ class Animal {
 
  class Dog :Animal
 {
-     public  void makeSound()
+     public   override void makeSound()
     {
         Console.WriteLine("Bark");
     }
 }
 
-class Cat:Animal
+class Cat : Animal
 {
-    public void makeSound()
+    public override  void makeSound()
     {
         Console.WriteLine("Meow");
+    }
+}
+//Abstract classes
+
+public abstract class Shape
+{
+    public virtual void GetArea()
+    {
+    }
+}
+public abstract class Circle : Shape {
+
+    public override void GetArea()
+    {
+        Console.WriteLine("Please enter the radius of a circle");
+        String userInput = Console.ReadLine();
+
+        
+        base.GetArea();
+    }
 }
 
 

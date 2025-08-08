@@ -12,3 +12,4 @@ C:\Users\AJ\Desktop\Devotional\assignment\dcit318-assignment2-11033579.cs\obj\De
 C:\Users\AJ\Desktop\Devotional\assignment\dcit318-assignment2-11033579.cs\obj\Debug\net8.0\dcit318-assignment2-11033579.cs.pdb
 C:\Users\AJ\Desktop\Devotional\assignment\dcit318-assignment2-11033579.cs\obj\Debug\net8.0\dcit318-assignment2-11033579.cs.genruntimeconfig.cache
 C:\Users\AJ\Desktop\Devotional\assignment\dcit318-assignment2-11033579.cs\obj\Debug\net8.0\ref\dcit318-assignment2-11033579.cs.dll
+C:\Users\AJ\Desktop\Devotional\assignment\dcit318-assignment2-11033579.cs\obj\Debug\net8.0\dcit318-assignment2-11033579.cs.sourcelink.json
