@@ -6,6 +6,7 @@ using System;
 static void Main(String[] args)
 {
     Animal m = new Animal();
+    m.makeSound();
 }
 class Animal { 
 
